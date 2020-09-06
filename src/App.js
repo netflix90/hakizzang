@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <h1>hello</h1>
-      <Food fav="kimchi"  />
+      <Food qwe="kimchi"  />
       <Food fav="ramen"  />
       <Food fav="samgiopsal"  />
       <Food fav="chukumi"  />
