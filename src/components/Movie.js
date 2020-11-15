@@ -20,7 +20,6 @@ function Movie({ title, year , summary , poster, genres }) {
             <h5 className="movie__year">{year}</h5>
             <ul className="movie__genres">
                 {genres.map((genre, index) => {
-                    console.log(index);
                     return(
                     <li key={index}className="movie_genres">
                         {genre}
