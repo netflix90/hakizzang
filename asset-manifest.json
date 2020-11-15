@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hakizzang/static/css/main.d9b99022.chunk.css",
+    "main.js": "/hakizzang/static/js/main.1e183c74.chunk.js",
+    "main.js.map": "/hakizzang/static/js/main.1e183c74.chunk.js.map",
+    "runtime-main.js": "/hakizzang/static/js/runtime-main.69513cdb.js",
+    "runtime-main.js.map": "/hakizzang/static/js/runtime-main.69513cdb.js.map",
+    "static/js/2.ad030fd9.chunk.js": "/hakizzang/static/js/2.ad030fd9.chunk.js",
+    "static/js/2.ad030fd9.chunk.js.map": "/hakizzang/static/js/2.ad030fd9.chunk.js.map",
+    "index.html": "/hakizzang/index.html",
+    "precache-manifest.16f861549c997a715ecb159732499478.js": "/hakizzang/precache-manifest.16f861549c997a715ecb159732499478.js",
+    "service-worker.js": "/hakizzang/service-worker.js",
+    "static/css/main.d9b99022.chunk.css.map": "/hakizzang/static/css/main.d9b99022.chunk.css.map",
+    "static/js/2.ad030fd9.chunk.js.LICENSE.txt": "/hakizzang/static/js/2.ad030fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69513cdb.js",
+    "static/js/2.ad030fd9.chunk.js",
+    "static/css/main.d9b99022.chunk.css",
+    "static/js/main.1e183c74.chunk.js"
+  ]
+}
